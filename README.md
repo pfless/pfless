@@ -2,7 +2,7 @@
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning Arduino IDE
 - 💞️ I’m looking to collaborate on things in the future maybe
-- 📫 Don't try to reach me
+- 📫 You can reach me if you're lucky
 
 <!---
 pfless/pfless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
